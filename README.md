@@ -1,3 +1,4 @@
+![Sadicklar Banner](https://github.com/MrIsimael/sadiklar-boarding-app/blob/main/Sadiklar%20Banner.png?raw=true?raw=true)
 # Sadiklar Boarding App
 
 A simple mobile attendance tracker designed for students living in a boarding madrassah who attend university or college. This app helps madrassah staff know who is present or off-premises in real-time so they can better organize religious classes and programs.
